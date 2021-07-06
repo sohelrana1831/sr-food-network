@@ -35,6 +35,7 @@ p {
   text-decoration: none;
   font-family: "Poppins", sans-serif;
   font-size: 16px;
+  color: #000;
 }
 section {
   height: 500px;
@@ -97,7 +98,7 @@ footer p {
 }
 .recipes-item img {
   width: 91%;
-  padding: 20px;
+  padding: 25px;
   border-radius: 10%;
 }
 
